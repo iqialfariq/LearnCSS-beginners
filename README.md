@@ -55,7 +55,7 @@
      <p style="color: #0000FF;">Teks warna biru</p>
      ```
 
-## Property CSS: Background-Color
+## Background Styling
 
 - **Background-Color**  
   Untuk memberikan warna latar belakang pada elemen HTML.  
@@ -89,9 +89,7 @@
        Latar belakang mengikuti elemen induk
      </div>
      ```
-
-## Property CSS: Background-Image
-
+     
 - **Background-Image**  
   Untuk memberikan gambar latar belakang pada sebuah elemen HTML.  
   Value `background-image` ada 1 yaitu: `url()`.  
@@ -100,8 +98,6 @@
   <div style="background-image: url('sample.jpg');">
     Konten dengan gambar latar belakang
   </div>
-
-## Property CSS: Background-Position
 
 - **Background-Position**  
   Untuk mengatur posisi gambar latar belakang dalam sebuah elemen.  
@@ -156,8 +152,7 @@
        Latar belakang dengan posisi relatif em
      </div>
      ```
-## Property CSS: Background-Repeat
-
+     
 - **Background-Repeat**  
   Untuk mengatur apakah gambar latar belakang (`background-image`) diulang atau tidak, serta bagaimana pola pengulangannya ditampilkan dalam sebuah elemen.  
   Value `background-repeat` ada 6 yaitu:  
@@ -203,9 +198,7 @@
        Kombinasi pengulangan dengan jarak dan pola
      </div>
      ```
-
-## Property CSS: Background-Size
-
+     
 - **Background-Size**  
   Untuk mengatur ukuran gambar latar belakang pada sebuah elemen.  
   Dengan ini, kamu bisa menentukan apakah gambar memenuhi seluruh area, menyesuaikan proporsi, atau menggunakan ukuran khusus.  
