@@ -1,4 +1,4 @@
-## Cara menghubungkan CSS ada 3 cara yaitu:
+## Cara menghubungkan CSS ada 3 yaitu:
 
 - **Inline CSS**  
   Menyisipkan style di setiap tag HTML.  
