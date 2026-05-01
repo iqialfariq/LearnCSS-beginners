@@ -277,6 +277,18 @@
 
   6. **% (persentase)**  
      ```html
+     <p style="font-size: 120%;">Teks ukuran 120%</p>
+     ```
+
+  7. **Small**  
+     ```html
+     <p style="font-size: small;">Teks ukuran kecil</p>
+     ```
+
+  8. **Large**  
+     ```html
+     <p style="font-size: large;">Teks ukuran besar</p>
+     ```
 
 - **Font-Weight**  
   Untuk mengatur ketebalan huruf (tebal-tipis) pada teks.  
