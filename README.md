@@ -392,3 +392,152 @@
      ```html
      <p style="line-height: 150%;">Teks dengan line-height 150%</p>
      ```
+## Text Styling
+
+- **Text-Align**  
+  Untuk mengatur perataan teks secara horizontal di dalam sebuah elemen blok.  
+  Value `text-align` ada 4 yaitu:  
+
+  1. **start**  
+     ```html
+     <p style="text-align: start;">Teks rata kiri (default)</p>
+     ```
+
+  2. **end**  
+     ```html
+     <p style="text-align: end;">Teks rata kanan</p>
+     ```
+
+  3. **center**  
+     ```html
+     <p style="text-align: center;">Teks rata tengah</p>
+     ```
+
+  4. **justify**  
+     ```html
+     <p style="text-align: justify;">
+       Teks rata kiri dan kanan, membuat tampilan lebih rapi seperti paragraf koran
+     </p>
+     ```
+     
+- **Text-Indent**  
+  Untuk memberikan indentasi (jarak masuk) pada baris pertama teks dalam sebuah elemen blok, misalnya paragraf `<p>`.  
+  Value `text-indent` ada 4 yaitu:  
+
+  1. **px (pixel)**  
+     ```html
+     <p style="text-indent: 40px;">
+       Paragraf dengan indentasi 40px
+     </p>
+     ```
+
+  2. **% (persentase)**  
+     ```html
+     <p style="text-indent: 10%;">
+       Paragraf dengan indentasi 10% dari lebar elemen
+     </p>
+     ```
+
+  3. **em (relative unit)**  
+     ```html
+     <p style="text-indent: 2em;">
+       Paragraf dengan indentasi 2em
+     </p>
+     ```
+
+  4. **inherit**  
+     ```html
+     <p style="text-indent: inherit;">
+       Paragraf mengikuti indentasi dari elemen induk
+     </p>
+     ```
+
+- **Text-Decoration**  
+  Untuk memberikan efek dekorasi pada teks, seperti garis bawah, garis atas, coretan, atau menghilangkan dekorasi bawaan (misalnya pada link).  
+  Value `text-decoration` ada 4 yaitu:  
+
+  1. **none**  
+     ```html
+     <p style="text-decoration: none;">Teks tanpa dekorasi</p>
+     ```
+
+  2. **underline**  
+     ```html
+     <p style="text-decoration: underline;">Teks dengan garis bawah</p>
+     ```
+
+  3. **overline**  
+     ```html
+     <p style="text-decoration: overline;">Teks dengan garis atas</p>
+     ```
+
+  4. **line-through**  
+     ```html
+     <p style="text-decoration: line-through;">Teks dengan coretan</p>
+     ```
+     
+- **Text-Transform**  
+  Untuk mengubah tampilan huruf pada teks tanpa mengubah isi asli di HTML.  
+  Jadi, teks tetap sama di kode, tetapi tampilannya bisa diubah menjadi huruf besar, kecil, atau kapitalisasi awal kata.  
+  Value `text-transform` ada 4 yaitu:  
+
+  1. **uppercase**  
+     ```html
+     <p style="text-transform: uppercase;">Teks menjadi huruf BESAR</p>
+     ```
+
+  2. **lowercase**  
+     ```html
+     <p style="text-transform: lowercase;">Teks menjadi huruf kecil</p>
+     ```
+
+  3. **capitalize**  
+     ```html
+     <p style="text-transform: capitalize;">Teks Kapitalisasi Awal Kata</p>
+     ```
+
+  4. **inherit**  
+     ```html
+     <p style="text-transform: inherit;">Teks mengikuti text-transform dari elemen induk</p>
+     ```
+     
+- **Letter-Spacing**  
+  Untuk mengatur jarak antar huruf (spasi horizontal) dalam teks.  
+  Dengan ini, kamu bisa membuat teks terlihat lebih renggang, rapat, atau memiliki efek tipografi tertentu.  
+  Value `letter-spacing` ada 3 yaitu:  
+
+  1. **normal**  
+     ```html
+     <p style="letter-spacing: normal;">Teks dengan jarak huruf normal</p>
+     ```
+
+  2. **px (pixel)**  
+     ```html
+     <p style="letter-spacing: 5px;">Teks dengan jarak huruf 5px</p>
+     ```
+
+  3. **em (relative unit)**  
+     ```html
+     <p style="letter-spacing: 0.2em;">Teks dengan jarak huruf 0.2em</p>
+     ```
+     
+- **Word-Spacing**  
+  Untuk mengatur jarak antar kata dalam teks.  
+  Dengan ini, kamu bisa membuat teks terlihat lebih renggang atau lebih rapat, sesuai kebutuhan tipografi atau desain.  
+  Value `word-spacing` ada 3 yaitu:  
+
+  1. **normal**  
+     ```html
+     <p style="word-spacing: normal;">Teks dengan jarak kata normal</p>
+     ```
+
+  2. **px (pixel)**  
+     ```html
+     <p style="word-spacing: 10px;">Teks dengan jarak kata 10px</p>
+     ```
+
+  3. **em (relative unit)**  
+     ```html
+     <p style="word-spacing: 0.5em;">Teks dengan jarak kata 0.5em</p>
+     ```
+     
