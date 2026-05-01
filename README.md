@@ -1,5 +1,6 @@
 # Property dan Value dasar CSS 
 
+---
 ## Inline CSS
 
 Menyisipkan style di setiap tag HTML.
@@ -9,6 +10,7 @@ Menyisipkan style di setiap tag HTML.
   Teks ini menggunakan Inline CSS
 </p>
 
+---
 ## Internal CSS
 
 Membuat file CSS dengan tag `<style>` pada bagian `<head>`.
