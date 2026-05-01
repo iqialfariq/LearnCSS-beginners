@@ -231,4 +231,152 @@
        Latar belakang dengan ukuran persentase
      </div>
      ```
-               
+
+## Font-Styling
+
+- **Font-Family**  
+  Untuk menentukan jenis huruf (font) yang dipakai pada teks dalam elemen HTML.  
+  Dengan ini, kamu bisa mengatur tipografi agar sesuai dengan branding, estetika, atau keterbacaan.  
+  Value `font-family` ditentukan oleh jenis font yang digunakan.  
+
+  Contoh penggunaan:  
+  ```html
+  <p style="font-family: Arial, sans-serif;">
+    Teks dengan font Arial
+  </p>
+
+- **Font-Size**  
+  Untuk mengatur ukuran teks dalam elemen HTML.  
+  Dengan ini, kamu bisa membuat teks lebih besar, lebih kecil, atau responsif sesuai kebutuhan desain.  
+  Value `font-size` ada 8 yaitu:  
+
+  1. **Rem**  
+     ```html
+     <p style="font-size: 1rem;">Teks ukuran 1rem</p>
+     ```
+
+  2. **Em**  
+     ```html
+     <p style="font-size: 1.5em;">Teks ukuran 1.5em</p>
+     ```
+
+  3. **Px (pixel)**  
+     ```html
+     <p style="font-size: 20px;">Teks ukuran 20px</p>
+     ```
+
+  4. **Vw (viewport width)**  
+     ```html
+     <p style="font-size: 5vw;">Teks ukuran 5vw</p>
+     ```
+
+  5. **Vh (viewport height)**  
+     ```html
+     <p style="font-size: 5vh;">Teks ukuran 5vh</p>
+     ```
+
+  6. **% (persentase)**  
+     ```html
+
+- **Font-Weight**  
+  Untuk mengatur ketebalan huruf (tebal-tipis) pada teks.  
+  Dengan ini, kamu bisa membuat teks tampil normal, lebih tipis, atau lebih tebal sesuai kebutuhan tipografi.  
+  Value `font-weight` ada 5 yaitu:  
+
+  1. **normal**  
+     ```html
+     <p style="font-weight: normal;">Teks normal</p>
+     ```
+
+  2. **lighter**  
+     ```html
+     <p style="font-weight: lighter;">Teks lebih tipis</p>
+     ```
+
+  3. **bold**  
+     ```html
+     <p style="font-weight: bold;">Teks tebal</p>
+     ```
+
+  4. **bolder**  
+     ```html
+     <p style="font-weight: bolder;">Teks lebih tebal</p>
+     ```
+
+  5. **100–900 (angka)**  
+     ```html
+     <p style="font-weight: 100;">Teks sangat tipis</p>
+     <p style="font-weight: 400;">Teks normal</p>
+     <p style="font-weight: 700;">Teks tebal</p>
+     <p style="font-weight: 900;">Teks super tebal</p>
+     ```
+     
+- **Font-Variant**  
+  Untuk mengatur variasi gaya font, terutama dalam hal *small-caps* (huruf kecil ditampilkan sebagai huruf kapital kecil).  
+  Dengan ini, teks bisa tampil lebih formal atau bergaya tipografi khusus tanpa mengubah isi asli teks.  
+  Value `font-variant` ada 3 yaitu:  
+
+  1. **normal**  
+     ```html
+     <p style="font-variant: normal;">Teks normal</p>
+     ```
+
+  2. **small-caps**  
+     ```html
+     <p style="font-variant: small-caps;">Teks dengan small-caps</p>
+     ```
+
+  3. **inherit**  
+     ```html
+     <p style="font-variant: inherit;">Teks mengikuti font-variant dari elemen induk</p>
+     ```
+     
+- **Font-Style**  
+  Untuk mengatur gaya huruf miring atau normal pada teks.  
+  Dengan ini, kamu bisa menampilkan teks dalam bentuk *italic*, *oblique*, atau tetap normal sesuai kebutuhan tipografi.  
+  Value `font-style` ada 4 yaitu:  
+
+  1. **normal**  
+     ```html
+     <p style="font-style: normal;">Teks normal</p>
+     ```
+
+  2. **italic**  
+     ```html
+     <p style="font-style: italic;">Teks miring (italic)</p>
+     ```
+
+  3. **oblique**  
+     ```html
+     <p style="font-style: oblique;">Teks miring (oblique)</p>
+     ```
+
+  4. **inherit**  
+     ```html
+     <p style="font-style: inherit;">Teks mengikuti font-style dari elemen induk</p>
+     ```
+     
+- **Line-Height**  
+  Untuk mengatur tinggi baris teks dalam sebuah elemen.  
+  Dengan kata lain, ia menentukan jarak vertikal antara garis dasar (baseline) teks satu dengan teks berikutnya.  
+  Value `line-height` ada 4 yaitu:  
+
+  1. **normal**  
+     ```html
+     <p style="line-height: normal;">Teks dengan line-height normal</p>
+     ```
+
+  2. **em**  
+     ```html
+     <p style="line-height: 2em;">Teks dengan line-height 2em</p>
+     ```
+
+  3. **px (pixel)**  
+     ```html
+     <p style="line-height: 30px;">Teks dengan line-height 30px</p>
+     ```
+
+  4. **% (persentase)**  
+     ```html
+     <p style="line-height: 150%;">Teks dengan line-height 150%</p>
+     ```
