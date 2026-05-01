@@ -34,7 +34,7 @@
 
 # Property dan Value dasar CSS 
 
-## Property CSS: Color
+## Color Styling
 
 - **Color**  
   Untuk memberikan warna pada elemen HTML.  
