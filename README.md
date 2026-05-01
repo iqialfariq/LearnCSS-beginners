@@ -1,6 +1,6 @@
 # Property dan Value dasar CSS 
 
-## Property dan Value dasar CSS
+## Cara menghubungkan CSS ada 3 cara yaitu:
 
 - **Inline CSS**  
   Menyisipkan style di setiap tag HTML.  
@@ -8,3 +8,32 @@
   <p style="color: red; font-size: 18px;">
     Teks ini menggunakan Inline CSS
   </p>
+
+## Property dan Value dasar CSS
+
+- **Internal CSS**  
+  Membuat file CSS dengan tag `<style>` pada bagian `<head>`.  
+  ```html
+  <head>
+    <style>
+      p {
+        color: blue;
+        font-size: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Teks ini menggunakan Internal CSS</p>
+  </body>
+
+## Property dan Value dasar CSS
+
+- **External CSS**  
+  Membuat file CSS terpisah dan menghubungkannya dengan `<link>`.  
+  ```html
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <p>Teks ini menggunakan External CSS</p>
+  </body>
