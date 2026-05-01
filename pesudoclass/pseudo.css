@@ -1,0 +1,19 @@
+/* ketika mouse di atas elemtn */
+ul li a:hover {
+  color: red;
+}
+
+/* ketika mouse sudah klik elemnt */
+ul li a:active {
+  color: purple;
+}
+
+/* ketika mouse sudah klik elment dan riwayat klik nya tersimpan */
+/* ul li a:visited {
+  color: burlywood;
+} */
+
+/* ketika anak urutan ke lipatan 2 atau genap kalau mau ganjil pakai odd */
+ul li:nth-child(even) a {
+  color: salmon;
+}

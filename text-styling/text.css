@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  text-indent: 50px;
+  text-decoration: underline;
+  text-transform: capitalize;
+  letter-spacing: 20px;
+  word-spacing: 20px;
+}

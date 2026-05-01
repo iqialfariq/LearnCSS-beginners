@@ -1,0 +1,11 @@
+h1 {
+  background-color: salmon;
+}
+
+body {
+  background-image: url(../sample.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+}

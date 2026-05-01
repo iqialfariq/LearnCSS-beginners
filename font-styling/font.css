@@ -1,0 +1,11 @@
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 100px;
+}
+
+p {
+  font-weight: lighter;
+  font-variant: small-caps;
+  font-style: oblique;
+  line-height: 50px;
+}
