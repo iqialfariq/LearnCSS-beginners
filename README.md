@@ -2,7 +2,7 @@
 
 ## Inline CSS
 
-Menyisipkan style langsung di setiap tag HTML.
+Menyisipkan style di setiap tag HTML.
 
 ```html
 <p style="color: red; font-size: 18px;">
@@ -25,3 +25,4 @@ Membuat file CSS dengan tag `<style>` pada bagian `<head>`.
 <body>
   <p>Teks ini menggunakan Internal CSS</p>
 </body>
+
