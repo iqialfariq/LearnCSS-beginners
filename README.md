@@ -1,3 +1,8 @@
+# 💡 Penjelasan CSS 💡
+CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk mengatur tampilan, tata letak, warna, dan font elemen HTML pada situs web. CSS memisahkan konten (HTML) dari visualisasi, membuat website lebih menarik, responsif, dan mudah dikelola. Tanpa CSS, halaman web hanya berupa **teks polos berstruktur.**. 
+
+---
+
 ## Cara menghubungkan CSS ada 3 yaitu:
 
 - **Inline CSS**  
