@@ -41,7 +41,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
 
 ## 📌 Color Styling 📌
 
-- **Color**  
+- **Color**📎  
   Untuk memberikan warna pada elemen HTML.  
   Value `color` ada 3 yaitu:  
 
@@ -62,7 +62,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
 
 ## 📌 Background Styling 📌
 
-- **Background-Color**  
+- **Background-Color**📎  
   Untuk memberikan warna latar belakang pada elemen HTML.  
   Dengan ini, kamu bisa mengatur warna area di belakang teks, gambar, atau konten lain dalam sebuah elemen.  
   Value `background-color` ada 4 yaitu:  
@@ -95,7 +95,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      </div>
      ```
      
-- **Background-Image**  
+- **Background-Image**📎  
   Untuk memberikan gambar latar belakang pada sebuah elemen HTML.  
   Value `background-image` ada 1 yaitu: `url()`.  
 
@@ -104,7 +104,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
     Konten dengan gambar latar belakang
   </div>
 
-- **Background-Position**  
+- **Background-Position**📎  
   Untuk mengatur posisi gambar latar belakang dalam sebuah elemen.  
   Dengan ini, kamu bisa menentukan apakah gambar berada di kiri, kanan, tengah, atas, bawah, atau posisi khusus menggunakan nilai koordinat.  
   Value `background-position` ada 7 yaitu:  
@@ -158,7 +158,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      </div>
      ```
      
-- **Background-Repeat**  
+- **Background-Repeat**📎  
   Untuk mengatur apakah gambar latar belakang (`background-image`) diulang atau tidak, serta bagaimana pola pengulangannya ditampilkan dalam sebuah elemen.  
   Value `background-repeat` ada 6 yaitu:  
 
@@ -204,7 +204,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      </div>
      ```
      
-- **Background-Size**  
+- **Background-Size**📎  
   Untuk mengatur ukuran gambar latar belakang pada sebuah elemen.  
   Dengan ini, kamu bisa menentukan apakah gambar memenuhi seluruh area, menyesuaikan proporsi, atau menggunakan ukuran khusus.  
   Value `background-size` ada 4 yaitu:  
@@ -239,7 +239,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
 
 ## 📌 Font-Styling 📌
 
-- **Font-Family**  
+- **Font-Family**📎  
   Untuk menentukan jenis huruf (font) yang dipakai pada teks dalam elemen HTML.  
   Dengan ini, kamu bisa mengatur tipografi agar sesuai dengan branding, estetika, atau keterbacaan.  
   Value `font-family` ditentukan oleh jenis font yang digunakan.  
@@ -250,7 +250,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
     Teks dengan font Arial
   </p>
 
-- **Font-Size**  
+- **Font-Size**📎  
   Untuk mengatur ukuran teks dalam elemen HTML.  
   Dengan ini, kamu bisa membuat teks lebih besar, lebih kecil, atau responsif sesuai kebutuhan desain.  
   Value `font-size` ada 8 yaitu:  
@@ -295,7 +295,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      <p style="font-size: large;">Teks ukuran besar</p>
      ```
 
-- **Font-Weight**  
+- **Font-Weight**📎  
   Untuk mengatur ketebalan huruf (tebal-tipis) pada teks.  
   Dengan ini, kamu bisa membuat teks tampil normal, lebih tipis, atau lebih tebal sesuai kebutuhan tipografi.  
   Value `font-weight` ada 5 yaitu:  
@@ -328,7 +328,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      <p style="font-weight: 900;">Teks super tebal</p>
      ```
      
-- **Font-Variant**  
+- **Font-Variant**📎  
   Untuk mengatur variasi gaya font, terutama dalam hal *small-caps* (huruf kecil ditampilkan sebagai huruf kapital kecil).  
   Dengan ini, teks bisa tampil lebih formal atau bergaya tipografi khusus tanpa mengubah isi asli teks.  
   Value `font-variant` ada 3 yaitu:  
@@ -348,7 +348,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      <p style="font-variant: inherit;">Teks mengikuti font-variant dari elemen induk</p>
      ```
      
-- **Font-Style**  
+- **Font-Style**📎  
   Untuk mengatur gaya huruf miring atau normal pada teks.  
   Dengan ini, kamu bisa menampilkan teks dalam bentuk *italic*, *oblique*, atau tetap normal sesuai kebutuhan tipografi.  
   Value `font-style` ada 4 yaitu:  
@@ -373,7 +373,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      <p style="font-style: inherit;">Teks mengikuti font-style dari elemen induk</p>
      ```
      
-- **Line-Height**  
+- **Line-Height**📎  
   Untuk mengatur tinggi baris teks dalam sebuah elemen.  
   Dengan kata lain, ia menentukan jarak vertikal antara garis dasar (baseline) teks satu dengan teks berikutnya.  
   Value `line-height` ada 4 yaitu:  
@@ -399,7 +399,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      ```
 ## 📌 Text Styling 📌
 
-- **Text-Align**  
+- **Text-Align**📎  
   Untuk mengatur perataan teks secara horizontal di dalam sebuah elemen blok.  
   Value `text-align` ada 4 yaitu:  
 
@@ -425,7 +425,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      </p>
      ```
      
-- **Text-Indent**  
+- **Text-Indent**📎  
   Untuk memberikan indentasi (jarak masuk) pada baris pertama teks dalam sebuah elemen blok, misalnya paragraf `<p>`.  
   Value `text-indent` ada 4 yaitu:  
 
@@ -457,7 +457,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      </p>
      ```
 
-- **Text-Decoration**  
+- **Text-Decoration**📎  
   Untuk memberikan efek dekorasi pada teks, seperti garis bawah, garis atas, coretan, atau menghilangkan dekorasi bawaan (misalnya pada link).  
   Value `text-decoration` ada 4 yaitu:  
 
@@ -481,7 +481,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      <p style="text-decoration: line-through;">Teks dengan coretan</p>
      ```
      
-- **Text-Transform**  
+- **Text-Transform**📎  
   Untuk mengubah tampilan huruf pada teks tanpa mengubah isi asli di HTML.  
   Jadi, teks tetap sama di kode, tetapi tampilannya bisa diubah menjadi huruf besar, kecil, atau kapitalisasi awal kata.  
   Value `text-transform` ada 4 yaitu:  
@@ -506,7 +506,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      <p style="text-transform: inherit;">Teks mengikuti text-transform dari elemen induk</p>
      ```
      
-- **Letter-Spacing**  
+- **Letter-Spacing**📎  
   Untuk mengatur jarak antar huruf (spasi horizontal) dalam teks.  
   Dengan ini, kamu bisa membuat teks terlihat lebih renggang, rapat, atau memiliki efek tipografi tertentu.  
   Value `letter-spacing` ada 3 yaitu:  
@@ -526,7 +526,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      <p style="letter-spacing: 0.2em;">Teks dengan jarak huruf 0.2em</p>
      ```
      
-- **Word-Spacing**  
+- **Word-Spacing**📎  
   Untuk mengatur jarak antar kata dalam teks.  
   Dengan ini, kamu bisa membuat teks terlihat lebih renggang atau lebih rapat, sesuai kebutuhan tipografi atau desain.  
   Value `word-spacing` ada 3 yaitu:  
