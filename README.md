@@ -13,6 +13,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
   <p style="color: red; font-size: 18px;">
     Teks ini menggunakan Inline CSS
   </p>
+  ```
 
 - **Internal CSS**  
   Membuat file CSS dengan tag `<style>` pada bagian `<head>`.  
@@ -28,6 +29,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
   <body>
     <p>Teks ini menggunakan Internal CSS</p>
   </body>
+  ```
 
 - **External CSS**  
   Membuat file CSS terpisah dan menghubungkannya dengan `<link>`.  
@@ -38,8 +40,9 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
   <body>
     <p>Teks ini menggunakan External CSS</p>
   </body>
+  ```
 
-# 💫 Property dan Value dasar CSS 💫
+# 📌 Property dan Value dasar CSS
 
 ## 📌 Color Styling 📌
 
