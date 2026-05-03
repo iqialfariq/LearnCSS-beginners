@@ -42,7 +42,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
     </body>
   ```
 
-# 📌 Property dan Value dasar CSS
+# 📌 Property dan Value CSS Dasar
 
 ## 🎨 Color Styling
 
