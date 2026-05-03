@@ -41,7 +41,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
       <p>Teks ini menggunakan External CSS</p>
     </body>
   ```
-
+---
 # 📌 Property dan Value CSS Dasar
 
 ## 🎨 Color Styling
@@ -64,7 +64,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      ```html
      <p style="color: #0000FF;">Teks warna biru</p>
      ```
-
+---
 ## 🖼️ Background Styling
 
 - **Background-Color**📎  
@@ -242,7 +242,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
          Latar belakang dengan ukuran persentase
        </div>
      ```
-
+---
 ## 🔤 Font-Styling
 
 - **Font-Family**📎  
@@ -404,6 +404,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      ```html
      <p style="line-height: 150%;">Teks dengan line-height 150%</p>
      ```
+---     
 ## ✍️ Text Styling
 
 - **Text-Align**📎  
