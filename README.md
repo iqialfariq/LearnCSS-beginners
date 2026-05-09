@@ -47,7 +47,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
 ## 🎨 Color Styling
 
 - **Color**📎  
-  Merujuk pada cara memberikan warna pada elemen HTML.  
+  Untuk memberikan warna pada elemen HTML.  
   Value `color` ada 3 yaitu:  
 
   1. **Nama warna**  
@@ -68,7 +68,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
 ## 🖼️ Background Styling
 
 - **Background-Color**📎  
-  Merujuk pada cara memberikan warna latar belakang pada elemen HTML.  
+  Untuk memberikan warna latar belakang pada elemen HTML.  
   Dengan ini, kamu bisa mengatur warna area di belakang teks, gambar, atau konten lain dalam sebuah elemen.  
   Value `background-color` ada 4 yaitu:  
 
@@ -246,7 +246,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
 ## 🔤 Font-Styling
 
 - **Font-Family**📎  
-  Merujuk pada cara menentukan jenis huruf (font) yang dipakai pada teks dalam elemen HTML.  
+  Untuk menentukan jenis huruf (font) yang dipakai pada teks dalam elemen HTML.  
   Dengan ini, kamu bisa mengatur tipografi agar sesuai dengan branding, estetika, atau keterbacaan.  
   Value `font-family` ditentukan oleh jenis font yang digunakan.  
 
@@ -408,7 +408,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
 ## ✍️ Text Styling
 
 - **Text-Align**📎  
-  Merujuk pada cara mengatur perataan teks secara horizontal di dalam sebuah elemen blok.  
+  Untuk mengatur perataan teks secara horizontal di dalam sebuah elemen blok.  
   Value `text-align` ada 4 yaitu:  
 
   1. **start**  
