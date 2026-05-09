@@ -68,8 +68,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
 ## 🖼️ Background Styling
 
 - **Background-Color**📎  
-  Untuk memberikan warna latar belakang pada elemen HTML.  
-  Dengan ini, kamu bisa mengatur warna area di belakang teks, gambar, atau konten lain dalam sebuah elemen.  
+  Untuk memberikan warna latar belakang pada elemen HTML. Dengan ini, kamu bisa mengatur warna area di belakang teks, gambar, atau konten lain dalam sebuah elemen.  
   Value `background-color` ada 4 yaitu:  
 
   1. **Color (nama warna)**  
@@ -111,8 +110,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
   ```
 
 - **Background-Position**📎  
-  Untuk mengatur posisi gambar latar belakang dalam sebuah elemen.  
-  Dengan ini, kamu bisa menentukan apakah gambar berada di kiri, kanan, tengah, atas, bawah, atau posisi khusus menggunakan nilai koordinat.  
+  Untuk mengatur posisi gambar latar belakang dalam sebuah elemen. Dengan ini, kamu bisa menentukan apakah gambar berada di kiri, kanan, tengah, atas, bawah, atau posisi khusus menggunakan nilai koordinat.  
   Value `background-position` ada 7 yaitu:  
 
   1. **Top**  
@@ -211,8 +209,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      ```
      
 - **Background-Size**📎  
-  Untuk mengatur ukuran gambar latar belakang pada sebuah elemen.  
-  Dengan ini, kamu bisa menentukan apakah gambar memenuhi seluruh area, menyesuaikan proporsi, atau menggunakan ukuran khusus.  
+  Untuk mengatur ukuran gambar latar belakang pada sebuah elemen. Dengan ini, kamu bisa menentukan apakah gambar memenuhi seluruh area, menyesuaikan proporsi, atau menggunakan ukuran khusus.  
   Value `background-size` ada 4 yaitu:  
 
   1. **Cover**  
@@ -246,8 +243,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
 ## 🔤 Font-Styling
 
 - **Font-Family**📎  
-  Untuk menentukan jenis huruf (font) yang dipakai pada teks dalam elemen HTML.  
-  Dengan ini, kamu bisa mengatur tipografi agar sesuai dengan branding, estetika, atau keterbacaan.  
+  Untuk menentukan jenis huruf (font) yang dipakai pada teks dalam elemen HTML. Dengan ini, kamu bisa mengatur tipografi agar sesuai dengan branding, estetika, atau keterbacaan.  
   Value `font-family` ditentukan oleh jenis font yang digunakan.  
 
   Contoh penggunaan:  
@@ -258,8 +254,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
   ```
 
 - **Font-Size**📎  
-  Untuk mengatur ukuran teks dalam elemen HTML.  
-  Dengan ini, kamu bisa membuat teks lebih besar, lebih kecil, atau responsif sesuai kebutuhan desain.  
+  Untuk mengatur ukuran teks dalam elemen HTML. Dengan ini, kamu bisa membuat teks lebih besar, lebih kecil, atau responsif sesuai kebutuhan desain.  
   Value `font-size` ada 8 yaitu:  
 
   1. **Rem**  
@@ -303,8 +298,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      ```
 
 - **Font-Weight**📎  
-  Untuk mengatur ketebalan huruf (tebal-tipis) pada teks.  
-  Dengan ini, kamu bisa membuat teks tampil normal, lebih tipis, atau lebih tebal sesuai kebutuhan tipografi.  
+  Untuk mengatur ketebalan huruf (tebal-tipis) pada teks. Dengan ini, kamu bisa membuat teks tampil normal, lebih tipis, atau lebih tebal sesuai kebutuhan tipografi.  
   Value `font-weight` ada 5 yaitu:  
 
   1. **normal**  
@@ -336,8 +330,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      ```
      
 - **Font-Variant**📎  
-  Untuk mengatur variasi gaya font, terutama dalam hal *small-caps* (huruf kecil ditampilkan sebagai huruf kapital kecil).  
-  Dengan ini, teks bisa tampil lebih formal atau bergaya tipografi khusus tanpa mengubah isi asli teks.  
+  Untuk mengatur variasi gaya font, terutama dalam hal *small-caps* (huruf kecil ditampilkan sebagai huruf kapital kecil). Dengan ini, teks bisa tampil lebih formal atau bergaya tipografi khusus tanpa mengubah isi asli teks.  
   Value `font-variant` ada 3 yaitu:  
 
   1. **normal**  
@@ -356,8 +349,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      ```
      
 - **Font-Style**📎  
-  Untuk mengatur gaya huruf miring atau normal pada teks.  
-  Dengan ini, kamu bisa menampilkan teks dalam bentuk *italic*, *oblique*, atau tetap normal sesuai kebutuhan tipografi.  
+  Untuk mengatur gaya huruf miring atau normal pada teks. Dengan ini, kamu bisa menampilkan teks dalam bentuk *italic*, *oblique*, atau tetap normal sesuai kebutuhan tipografi.  
   Value `font-style` ada 4 yaitu:  
 
   1. **normal**  
@@ -381,8 +373,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      ```
      
 - **Line-Height**📎  
-  Untuk mengatur tinggi baris teks dalam sebuah elemen.  
-  Dengan kata lain, ia menentukan jarak vertikal antara garis dasar (baseline) teks satu dengan teks berikutnya.  
+  Untuk mengatur tinggi baris teks dalam sebuah elemen. Dengan kata lain, ia menentukan jarak vertikal antara garis dasar (baseline) teks satu dengan teks berikutnya.  
   Value `line-height` ada 4 yaitu:  
 
   1. **normal**  
@@ -490,8 +481,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      ```
      
 - **Text-Transform**📎  
-  Untuk mengubah tampilan huruf pada teks tanpa mengubah isi asli di HTML.  
-  Jadi, teks tetap sama di kode, tetapi tampilannya bisa diubah menjadi huruf besar, kecil, atau kapitalisasi awal kata.  
+  Untuk mengubah tampilan huruf pada teks tanpa mengubah isi asli di HTML. Jadi, teks tetap sama di kode, tetapi tampilannya bisa diubah menjadi huruf besar, kecil, atau kapitalisasi awal kata.  
   Value `text-transform` ada 4 yaitu:  
 
   1. **uppercase**  
@@ -515,8 +505,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      ```
      
 - **Letter-Spacing**📎  
-  Untuk mengatur jarak antar huruf (spasi horizontal) dalam teks.  
-  Dengan ini, kamu bisa membuat teks terlihat lebih renggang, rapat, atau memiliki efek tipografi tertentu.  
+  Untuk mengatur jarak antar huruf (spasi horizontal) dalam teks. Dengan ini, kamu bisa membuat teks terlihat lebih renggang, rapat, atau memiliki efek tipografi tertentu.  
   Value `letter-spacing` ada 3 yaitu:  
 
   1. **normal**  
@@ -535,8 +524,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
      ```
      
 - **Word-Spacing**📎  
-  Untuk mengatur jarak antar kata dalam teks.  
-  Dengan ini, kamu bisa membuat teks terlihat lebih renggang atau lebih rapat, sesuai kebutuhan tipografi atau desain.  
+  Untuk mengatur jarak antar kata dalam teks. Dengan ini, kamu bisa membuat teks terlihat lebih renggang atau lebih rapat, sesuai kebutuhan tipografi atau desain.  
   Value `word-spacing` ada 3 yaitu:  
 
   1. **normal**  
