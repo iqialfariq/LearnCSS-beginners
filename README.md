@@ -55,9 +55,8 @@ selector {
 
 ### 🎨 Color Styling
 
-- **Color**📎  
-  Untuk memberikan warna pada elemen HTML.  
-  Value `color` ada 3 yaitu:  
+- **Color**📎 
+  Untuk memberikan warna pada elemen HTML. Value Color ada 3 yaitu:  
 
   1. **Nama warna**  
      ```html
@@ -77,9 +76,9 @@ selector {
 
 ### 🖼️ Background Styling
 
-- **Background-Color**📎  
-  Untuk memberikan warna latar belakang pada elemen HTML. Dengan ini, kamu bisa mengatur warna area di belakang teks, gambar, atau konten lain dalam sebuah elemen.  
-  Value `background-color` ada 4 yaitu:  
+- **Background-Color**📎
+  <p align="justify">  
+  Untuk memberikan warna latar belakang pada elemen HTML. Dengan ini, kamu bisa mengatur warna area di belakang teks, gambar, atau konten lain dalam sebuah elemen. Value background-color ada 4 yaitu: </p>  
 
   1. **Color (nama warna)**  
      ```html
@@ -110,8 +109,7 @@ selector {
      ```
      
 - **Background-Image**📎  
-  Untuk memberikan gambar latar belakang pada sebuah elemen HTML.  
-  Value `background-image` ada 1 yaitu: `url()`.  
+  Untuk memberikan gambar latar belakang pada sebuah elemen HTML. Value background-image ada 1 yaitu: url(...).  
 
   ```html
     <div style="background-image: url('sample.jpg');">
@@ -119,9 +117,9 @@ selector {
     </div>
   ```
 
-- **Background-Position**📎  
-  Untuk mengatur posisi gambar latar belakang dalam sebuah elemen. Dengan ini, kamu bisa menentukan apakah gambar berada di kiri, kanan, tengah, atas, bawah, atau posisi khusus menggunakan nilai koordinat.  
-  Value `background-position` ada 7 yaitu:  
+- **Background-Position**📎
+  <p align="justify">  
+  Untuk mengatur posisi gambar latar belakang dalam sebuah elemen. Dengan ini, kamu bisa menentukan apakah gambar berada di kiri, kanan, tengah, atas, bawah, atau posisi khusus menggunakan nilai koordinat. Value background-position ada 7 yaitu: </p>
 
   1. **Top**  
      ```html
@@ -172,9 +170,9 @@ selector {
        </div>
      ```
      
-- **Background-Repeat**📎  
-  Untuk mengatur apakah gambar latar belakang (`background-image`) diulang atau tidak, serta bagaimana pola pengulangannya ditampilkan dalam sebuah elemen.  
-  Value `background-repeat` ada 6 yaitu:  
+- **Background-Repeat**📎
+  <p align="justify">  
+  Untuk mengatur apakah gambar latar belakang ( background-image ) diulang atau tidak, serta bagaimana pola pengulangannya ditampilkan dalam sebuah elemen. Value background-repeat ada 6 yaitu: </p>  
 
   1. **No-repeat**  
      ```html
@@ -218,9 +216,10 @@ selector {
        </div>
      ```
      
-- **Background-Size**📎  
-  Untuk mengatur ukuran gambar latar belakang pada sebuah elemen. Dengan ini, kamu bisa menentukan apakah gambar memenuhi seluruh area, menyesuaikan proporsi, atau menggunakan ukuran khusus.  
-  Value `background-size` ada 4 yaitu:  
+- **Background-Size**📎
+  <p align="justify">  
+  Untuk mengatur ukuran gambar latar belakang pada sebuah elemen. Dengan ini, kamu bisa menentukan apakah gambar memenuhi seluruh area, menyesuaikan proporsi, atau
+  menggunakan ukuran khusus.  Value background-size ada 4 yaitu: </p>
 
   1. **Cover**  
      ```html
@@ -253,9 +252,9 @@ selector {
 
 ### 🔤 Font-Styling
 
-- **Font-Family**📎  
-  Untuk menentukan jenis huruf (font) yang dipakai pada teks dalam elemen HTML. Dengan ini, kamu bisa mengatur tipografi agar sesuai dengan branding, estetika, atau keterbacaan.  
-  Value `font-family` ditentukan oleh jenis font yang digunakan.  
+- **Font-Family**📎
+  <p align="justify">  
+  Untuk menentukan jenis huruf (font) yang dipakai pada teks dalam elemen HTML. Dengan ini, kamu bisa mengatur tipografi agar sesuai dengan branding, estetika, atau keterbacaan. Value font-family ditentukan oleh jenis font yang digunakan. </p>
 
   Contoh penggunaan:  
   ```html
@@ -264,9 +263,10 @@ selector {
     </p>
   ```
 
-- **Font-Size**📎  
+- **Font-Size**📎
+  <p align="justify">  
   Untuk mengatur ukuran teks dalam elemen HTML. Dengan ini, kamu bisa membuat teks lebih besar, lebih kecil, atau responsif sesuai kebutuhan desain.  
-  Value `font-size` ada 8 yaitu:  
+  Value font-size ada 8 yaitu: </p>
 
   1. **Rem**  
      ```html
@@ -308,9 +308,10 @@ selector {
      <p style="font-size: large;">Teks ukuran besar</p>
      ```
 
-- **Font-Weight**📎  
+- **Font-Weight**📎
+  <p align="justify">  
   Untuk mengatur ketebalan huruf (tebal-tipis) pada teks. Dengan ini, kamu bisa membuat teks tampil normal, lebih tipis, atau lebih tebal sesuai kebutuhan tipografi.  
-  Value `font-weight` ada 5 yaitu:  
+  Value font-weight ada 5 yaitu: </p>
 
   1. **normal**  
      ```html
@@ -340,9 +341,9 @@ selector {
      <p style="font-weight: 900;">Teks super tebal</p>
      ```
      
-- **Font-Variant**📎  
-  Untuk mengatur variasi gaya font, terutama dalam hal *small-caps* (huruf kecil ditampilkan sebagai huruf kapital kecil). Dengan ini, teks bisa tampil lebih formal atau bergaya tipografi khusus tanpa mengubah isi asli teks.  
-  Value `font-variant` ada 3 yaitu:  
+- **Font-Variant**📎
+  <p align="justify">  
+  Untuk mengatur variasi gaya font, terutama dalam hal *small-caps* (huruf kecil ditampilkan sebagai huruf kapital kecil). Dengan ini, teks bisa tampil lebih formal atau bergaya tipografi khusus tanpa mengubah isi asli teks. Value font-variant ada 3 yaitu: </p>
 
   1. **normal**  
      ```html
@@ -359,9 +360,9 @@ selector {
      <p style="font-variant: inherit;">Teks mengikuti font-variant dari elemen induk</p>
      ```
      
-- **Font-Style**📎  
-  Untuk mengatur gaya huruf miring atau normal pada teks. Dengan ini, kamu bisa menampilkan teks dalam bentuk *italic*, *oblique*, atau tetap normal sesuai kebutuhan tipografi.  
-  Value `font-style` ada 4 yaitu:  
+- **Font-Style**📎
+  <p align="justify"> 
+  Untuk mengatur gaya huruf miring atau normal pada teks. Dengan ini, kamu bisa menampilkan teks dalam bentuk *italic*, *oblique*, atau tetap normal sesuai kebutuhan tipografi. Value font-style ada 4 yaitu: </p>
 
   1. **normal**  
      ```html
@@ -383,9 +384,10 @@ selector {
      <p style="font-style: inherit;">Teks mengikuti font-style dari elemen induk</p>
      ```
      
-- **Line-Height**📎  
+- **Line-Height**📎
+  <p align="justify">   
   Untuk mengatur tinggi baris teks dalam sebuah elemen. Dengan kata lain, ia menentukan jarak vertikal antara garis dasar (baseline) teks satu dengan teks berikutnya.  
-  Value `line-height` ada 4 yaitu:  
+  Value line-height ada 4 yaitu: </p>
 
   1. **normal**  
      ```html
@@ -410,9 +412,9 @@ selector {
 
 ### ✍️ Text Styling
 
-- **Text-Align**📎  
-  Untuk mengatur perataan teks secara horizontal di dalam sebuah elemen blok.  
-  Value `text-align` ada 4 yaitu:  
+- **Text-Align**📎
+  <p align="justify">  
+  Untuk mengatur perataan teks secara horizontal di dalam sebuah elemen blok. Value text-align ada 4 yaitu: </p> 
 
   1. **start**  
      ```html
@@ -436,9 +438,9 @@ selector {
        </p>
      ```
      
-- **Text-Indent**📎  
-  Untuk memberikan indentasi (jarak masuk) pada baris pertama teks dalam sebuah elemen blok, misalnya paragraf `<p>`.  
-  Value `text-indent` ada 4 yaitu:  
+- **Text-Indent**📎
+  <p align="justify">  
+  Untuk memberikan indentasi (jarak masuk) pada baris pertama teks dalam sebuah elemen blok, misalnya paragraf `<p>`. Value text-indent ada 4 yaitu: </p>
 
   1. **px (pixel)**  
      ```html
@@ -468,9 +470,10 @@ selector {
        </p>
      ```
 
-- **Text-Decoration**📎  
+- **Text-Decoration**📎
+  <p align="justify">    
   Untuk memberikan efek dekorasi pada teks, seperti garis bawah, garis atas, coretan, atau menghilangkan dekorasi bawaan (misalnya pada link).  
-  Value `text-decoration` ada 4 yaitu:  
+  Value text-decoration ada 4 yaitu: </p>
 
   1. **none**  
      ```html
@@ -492,9 +495,9 @@ selector {
      <p style="text-decoration: line-through;">Teks dengan coretan</p>
      ```
      
-- **Text-Transform**📎  
-  Untuk mengubah tampilan huruf pada teks tanpa mengubah isi asli di HTML. Jadi, teks tetap sama di kode, tetapi tampilannya bisa diubah menjadi huruf besar, kecil, atau kapitalisasi awal kata.  
-  Value `text-transform` ada 4 yaitu:  
+- **Text-Transform**📎
+  <p align="justify">    
+  Untuk mengubah tampilan huruf pada teks tanpa mengubah isi asli di HTML. Jadi, teks tetap sama di kode, tetapi tampilannya bisa diubah menjadi huruf besar, kecil, atau kapitalisasi awal kata. Value text-transform ada 4 yaitu: </p>  
 
   1. **uppercase**  
      ```html
@@ -516,9 +519,10 @@ selector {
      <p style="text-transform: inherit;">Teks mengikuti text-transform dari elemen induk</p>
      ```
      
-- **Letter-Spacing**📎  
+- **Letter-Spacing**📎
+  <p align="justify">    
   Untuk mengatur jarak antar huruf (spasi horizontal) dalam teks. Dengan ini, kamu bisa membuat teks terlihat lebih renggang, rapat, atau memiliki efek tipografi tertentu.  
-  Value `letter-spacing` ada 3 yaitu:  
+  Value letter-spacing ada 3 yaitu: </p>
 
   1. **normal**  
      ```html
@@ -535,9 +539,10 @@ selector {
      <p style="letter-spacing: 0.2em;">Teks dengan jarak huruf 0.2em</p>
      ```
      
-- **Word-Spacing**📎  
+- **Word-Spacing**📎
+  <p align="justify">  
   Untuk mengatur jarak antar kata dalam teks. Dengan ini, kamu bisa membuat teks terlihat lebih renggang atau lebih rapat, sesuai kebutuhan tipografi atau desain.  
-  Value `word-spacing` ada 3 yaitu:  
+  Value word-spacing ada 3 yaitu: </p>
 
   1. **normal**  
      ```html
