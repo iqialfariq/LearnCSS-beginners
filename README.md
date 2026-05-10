@@ -22,6 +22,8 @@ selector {
       Teks ini menggunakan Inline CSS
     </p>
   ```
+  
+---
 
 - **Internal CSS**  
   Membuat file CSS dengan tag `<style>` pada bagian `<head>`.  
@@ -39,6 +41,8 @@ selector {
     </body>
   ```
 
+---
+
 - **External CSS**  
   Membuat file CSS terpisah dan menghubungkannya dengan `<link>`.  
   ```html
@@ -49,6 +53,7 @@ selector {
       <p>Teks ini menggunakan External CSS</p>
     </body>
   ```
+  
 ---
 
 ## 📌 Property dan Value CSS Dasar
@@ -75,6 +80,7 @@ selector {
      ```html
      <p style="color: #0000FF;">Teks warna biru</p>
      ```
+     
 ---
 
 ### 🖼️ Background Styling
@@ -112,7 +118,9 @@ selector {
          Latar belakang mengikuti elemen induk
        </div>
      ```
-     
+
+---
+
 - **Background-Image**📎
   <p align="justify">    
   Untuk memberikan gambar latar belakang pada sebuah elemen HTML.
@@ -124,6 +132,8 @@ selector {
       Konten dengan gambar latar belakang
     </div>
   ```
+  
+---
 
 - **Background-Position**📎
   <p align="justify">  
@@ -180,7 +190,9 @@ selector {
          Latar belakang dengan posisi relatif em
        </div>
      ```
-     
+
+---
+
 - **Background-Repeat**📎
   <p align="justify">  
   Untuk mengatur apakah gambar latar belakang ( background-image ) diulang atau tidak, serta bagaimana pola pengulangannya ditampilkan dalam sebuah elemen.
@@ -228,6 +240,8 @@ selector {
          Kombinasi pengulangan dengan jarak dan pola
        </div>
      ```
+
+---
      
 - **Background-Size**📎
   <p align="justify">  
@@ -263,6 +277,7 @@ selector {
          Latar belakang dengan ukuran persentase
        </div>
      ```
+     
 ---
 
 ### 🔤 Font-Styling
@@ -280,6 +295,8 @@ selector {
       Teks dengan font Arial
     </p>
   ```
+
+---
 
 - **Font-Size**📎
   <p align="justify">  
@@ -327,6 +344,8 @@ selector {
      <p style="font-size: large;">Teks ukuran besar</p>
      ```
 
+---
+
 - **Font-Weight**📎
   <p align="justify">  
   Untuk mengatur ketebalan huruf (tebal-tipis) pada teks. Dengan ini, kamu bisa membuat teks tampil normal, lebih tipis, atau lebih tebal sesuai kebutuhan tipografi.  
@@ -360,6 +379,8 @@ selector {
      <p style="font-weight: 700;">Teks tebal</p>
      <p style="font-weight: 900;">Teks super tebal</p>
      ```
+
+---
      
 - **Font-Variant**📎
   <p align="justify">  
@@ -383,6 +404,8 @@ selector {
      <p style="font-variant: inherit;">Teks mengikuti font-variant dari elemen induk</p>
      ```
      
+---
+
 - **Font-Style**📎
   <p align="justify"> 
   Untuk mengatur gaya huruf miring atau normal pada teks. Dengan ini, kamu bisa menampilkan teks dalam bentuk italic, oblique, atau tetap normal sesuai kebutuhan
@@ -409,7 +432,9 @@ selector {
      ```html
      <p style="font-style: inherit;">Teks mengikuti font-style dari elemen induk</p>
      ```
-     
+
+---
+
 - **Line-Height**📎
   <p align="justify">   
   Untuk mengatur tinggi baris teks dalam sebuah elemen. Dengan kata lain, ia menentukan jarak vertikal antara garis dasar (baseline) teks satu dengan teks berikutnya.  
@@ -467,6 +492,8 @@ selector {
        </p>
      ```
      
+---
+
 - **Text-Indent**📎
   <p align="justify">  
   Untuk memberikan indentasi (jarak masuk) pada baris pertama teks dalam sebuah elemen blok, misalnya paragraf.
@@ -500,6 +527,8 @@ selector {
          Paragraf mengikuti indentasi dari elemen induk
        </p>
      ```
+     
+---
 
 - **Text-Decoration**📎
   <p align="justify">    
@@ -527,6 +556,8 @@ selector {
      <p style="text-decoration: line-through;">Teks dengan coretan</p>
      ```
      
+---
+
 - **Text-Transform**📎
   <p align="justify">    
   Untuk mengubah tampilan huruf pada teks tanpa mengubah isi asli di HTML. Jadi, teks tetap sama di kode, tetapi tampilannya bisa diubah menjadi huruf besar, kecil, atau
@@ -554,6 +585,8 @@ selector {
      <p style="text-transform: inherit;">Teks mengikuti text-transform dari elemen induk</p>
      ```
      
+---
+
 - **Letter-Spacing**📎
   <p align="justify">    
   Untuk mengatur jarak antar huruf (spasi horizontal) dalam teks. Dengan ini, kamu bisa membuat teks terlihat lebih renggang, rapat, atau memiliki efek tipografi tertentu.  
@@ -575,6 +608,8 @@ selector {
      <p style="letter-spacing: 0.2em;">Teks dengan jarak huruf 0.2em</p>
      ```
      
+---
+
 - **Word-Spacing**📎
   <p align="justify">  
   Untuk mengatur jarak antar kata dalam teks. Dengan ini, kamu bisa membuat teks terlihat lebih renggang atau lebih rapat, sesuai kebutuhan tipografi atau desain.  
