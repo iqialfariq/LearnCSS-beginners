@@ -55,8 +55,9 @@ selector {
 
 ### 🎨 Color Styling
 
-- **Color**📎 
-  Untuk memberikan warna pada elemen HTML. Value Color ada 3 yaitu:  
+- **Color**📎
+  <p align="justify">  
+  Untuk memberikan warna pada elemen HTML. Value Color ada 3 yaitu: </p>
 
   1. **Nama warna**  
      ```html
@@ -108,8 +109,9 @@ selector {
        </div>
      ```
      
-- **Background-Image**📎  
-  Untuk memberikan gambar latar belakang pada sebuah elemen HTML. Value background-image ada 1 yaitu: url(...).  
+- **Background-Image**📎
+  <p align="justify">    
+  Untuk memberikan gambar latar belakang pada sebuah elemen HTML. Value background-image ada 1 yaitu: url (...). </p>
 
   ```html
     <div style="background-image: url('sample.jpg');">
@@ -440,7 +442,7 @@ selector {
      
 - **Text-Indent**📎
   <p align="justify">  
-  Untuk memberikan indentasi (jarak masuk) pada baris pertama teks dalam sebuah elemen blok, misalnya paragraf `<p>`. Value text-indent ada 4 yaitu: </p>
+  Untuk memberikan indentasi (jarak masuk) pada baris pertama teks dalam sebuah elemen blok, misalnya paragraf. Value text-indent ada 4 yaitu: </p>
 
   1. **px (pixel)**  
      ```html
