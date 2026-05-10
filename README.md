@@ -11,6 +11,27 @@ selector {
   property: value;
 }
 ```
+```
+Cara untuk memanggil selector di css ada 3 kategori yaitu :
+  1. selector html.
+  ```
+    h1 {
+    property: value;
+    }
+  ```
+  2. selector class.
+  ```
+    .IniClass {
+    property: value;
+    }
+  ```
+  3. selector id.
+  ```
+    #ini-Id {
+    property: value;
+    }
+  ```
+```
 ---
 
 ## 🔗 Cara menghubungkan CSS ada 3 yaitu:
