@@ -5,6 +5,14 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
 
 ---
 
+## Anatomi Html
+```
+selector {
+  property: value;
+}
+```
+---
+
 ## 🔗 Cara menghubungkan CSS ada 3 yaitu:
 
 - **Inline CSS**  
