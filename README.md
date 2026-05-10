@@ -112,7 +112,8 @@ selector {
      
 - **Background-Image**📎
   <p align="justify">    
-  Untuk memberikan gambar latar belakang pada sebuah elemen HTML. Value background-image ada 1 yaitu:
+  Untuk memberikan gambar latar belakang pada sebuah elemen HTML. Value background-image ada 1 yaitu: 
+  
   url (...). </p>
 
   ```html
@@ -124,7 +125,8 @@ selector {
 - **Background-Position**📎
   <p align="justify">  
   Untuk mengatur posisi gambar latar belakang dalam sebuah elemen. Dengan ini, kamu bisa menentukan apakah gambar berada di kiri, kanan, tengah, atas, bawah, atau posisi
-  khusus menggunakan nilai koordinat. Value background-position ada 7 yaitu: </p>
+  khusus menggunakan nilai koordinat.
+  Value background-position ada 7 yaitu: </p>
 
   1. **Top**  
      ```html
