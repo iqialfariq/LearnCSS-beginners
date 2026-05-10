@@ -50,9 +50,10 @@ selector {
     </body>
   ```
 ---
-# 📌 Property dan Value CSS Dasar
 
-## 🎨 Color Styling
+## 📌 Property dan Value CSS Dasar
+
+### 🎨 Color Styling
 
 - **Color**📎  
   Untuk memberikan warna pada elemen HTML.  
@@ -73,7 +74,8 @@ selector {
      <p style="color: #0000FF;">Teks warna biru</p>
      ```
 ---
-## 🖼️ Background Styling
+
+### 🖼️ Background Styling
 
 - **Background-Color**📎  
   Untuk memberikan warna latar belakang pada elemen HTML. Dengan ini, kamu bisa mengatur warna area di belakang teks, gambar, atau konten lain dalam sebuah elemen.  
@@ -248,7 +250,8 @@ selector {
        </div>
      ```
 ---
-## 🔤 Font-Styling
+
+### 🔤 Font-Styling
 
 - **Font-Family**📎  
   Untuk menentukan jenis huruf (font) yang dipakai pada teks dalam elemen HTML. Dengan ini, kamu bisa mengatur tipografi agar sesuai dengan branding, estetika, atau keterbacaan.  
@@ -404,7 +407,8 @@ selector {
      <p style="line-height: 150%;">Teks dengan line-height 150%</p>
      ```
 ---     
-## ✍️ Text Styling
+
+### ✍️ Text Styling
 
 - **Text-Align**📎  
   Untuk mengatur perataan teks secara horizontal di dalam sebuah elemen blok.  
