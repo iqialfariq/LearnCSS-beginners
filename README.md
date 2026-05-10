@@ -5,7 +5,7 @@ CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk menga
 
 ---
 
-## Anatomi Html
+## Anatomi Css
 ```
 selector {
   property: value;
