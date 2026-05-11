@@ -631,3 +631,19 @@ selector {
          Latar belakang dengan ukuran persentase
        </div>
      ```
+     
+---
+
+### 🎨 Pseudo Class
+
+- **:Link**📎
+  <p align="justify">  
+  untuk menargetkan hyperlink (elemen <a>) yang belum pernah dikunjungi oleh pengguna. Dengan kata lain, ini adalah state default dari sebuah link sebelum diklik.
+  </p>
+  ```css
+    a:link {
+      color: blue;
+      text-decoration: none;
+    }
+  ```
+  
