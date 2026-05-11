@@ -640,10 +640,46 @@ selector {
   <p align="justify">  
   untuk menargetkan hyperlink (elemen <a>) yang belum pernah dikunjungi oleh pengguna. Dengan kata lain, ini adalah state default dari sebuah link sebelum diklik.
   </p>
-  ```css
+  ```
     a:link {
       color: blue;
       text-decoration: none;
     }
   ```
+
+- **:hover**📎
+  <p align="justify">  
+  untuk menargetkan sebuah elemen saat pointer (mouse) diarahkan ke atasnya. Ini adalah salah satu pseudo-class paling populer untuk membuat efek interaktif pada link,
+  tombol, gambar, atau elemen lain di halaman web. 
+  </p>
+  ```
+    a:hover {
+      color: white;
+      background-color: salmon;
+      padding: 10px 20px;
+    }
+  ```
   
+- **:active**📎
+  <p align="justify">  
+  untuk menargetkan sebuah elemen saat sedang dalam keadaan aktif, yaitu ketika pengguna menekan (klik) elemen dengan mouse atau sentuhan tetapi belum melepaskannya. Dengan
+  kata lain, ini adalah state sementara antara hover dan release.
+  </p>
+  ```
+    a:active {
+      color: white;
+      background-color: salmon;
+      padding: 10px 20px;
+    }
+  ```
+
+- **:visited**📎
+  <p align="justify">  
+  untuk menargetkan hyperlink (<a>) yang sudah pernah dikunjungi oleh pengguna. Dengan kata lain, ini adalah state link setelah pengguna mengkliknya dan browser
+  menyimpannya dalam riwayat.
+  </p>
+  ```
+    a:visited {
+      color: red;
+    }
+  ```  
