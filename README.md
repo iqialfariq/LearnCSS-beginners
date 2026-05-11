@@ -687,3 +687,39 @@ selector {
       color: red;
     }
   ```  
+
+- **:first-child**📎
+  <p align="justify">  
+  untuk menargetkan elemen pertama dalam sebuah parent (induk). Artinya, jika sebuah elemen adalah anak pertama dari parent-nya, maka selector 
+  dengan :first-child akan berlaku padanya.
+  </p>
+    
+  ```
+    a:first-child {
+      color: salmon;
+    }
+  ```
+
+- **:last-child**📎
+  <p align="justify">  
+  untuk menargetkan elemen terakhir dalam sebuah parent (induk). Jadi, jika sebuah elemen adalah anak terakhir dari parent-nya, selector dengan :last-child akan berlaku
+  padanya. 
+  </p>
+    
+  ```
+    a:last-child {
+      color: salmon;
+    }
+  ```
+
+- **:nth-child**📎
+  <p align="justify">  
+  untuk menargetkan elemen anak ke-n dalam sebuah parent, berdasarkan urutan. Dengan ini, kamu bisa memilih elemen tertentu (misalnya anak ke-2, ke-3, atau pola berulang)
+  untuk diberi gaya khusus. untuk urutan ganjil pakai "odd" dan untuk genap pakai "even". 
+  </p>
+    
+  ```
+    a:nth-child {
+      color: salmon;
+    }
+  ```
