@@ -24,8 +24,6 @@ selector {
       Teks ini menggunakan Inline CSS
     </p>
   ```
-  
----
 
 - **Internal CSS**  
   Membuat file CSS dengan tag `<style>` pada bagian `<head>`.  
@@ -43,8 +41,6 @@ selector {
     </body>
   ```
 
----
-
 - **External CSS**  
   Membuat file CSS terpisah dan menghubungkannya dengan `<link>`.  
   ```html
@@ -60,35 +56,10 @@ selector {
 
 ## 📌 Property dan Value CSS Dasar
 
-### 🎨 Color Styling
-
-- **Color**📎
-  <p align="justify">  
-  Untuk memberikan warna pada elemen HTML.
-  
-  Value Color ada 3 yaitu: </p>
-
-  1. **Nama warna**  
-     ```html
-     <p style="color: red;">Teks warna merah</p>
-     ```
-
-  2. **RGB**  
-     ```html
-     <p style="color: rgb(0, 128, 0);">Teks warna hijau</p>
-     ```
-
-  3. **Hexadecimal**  
-     ```html
-     <p style="color: #0000FF;">Teks warna biru</p>
-     ```
-     
----
-
-### 🔤 Font-Styling
+### 🔤 Font Styling
 <p align="justify"> 
 Font styling adalah kumpulan properti CSS yang digunakan untuk mengatur penampilan teks di halaman web — mulai dari jenis huruf, ukuran, ketebalan, gaya miring, hingga
-jarak antar huruf dan baris. Tujuannya biar teks lo tampil rapi, estetis, dan sesuai branding.
+jarak antar huruf dan baris. Tujuannya biar teks kamu tampil rapi, dan sesuai branding. Adapun property Font Styling sebagai berikut:
 </p>
 
 - **Font-Family**📎
@@ -263,6 +234,9 @@ jarak antar huruf dan baris. Tujuannya biar teks lo tampil rapi, estetis, dan se
 ---     
 
 ### ✍️ Text Styling
+<p align="justify"> 
+Text styling adalah kumpulan properti CSS yang dipakai untuk mengatur penampilan teks di halaman web. Fokusnya bukan ke font ( jenis huruf ), tapi ke efek visual teks seperti dekorasi, transformasi huruf, perataan, indentasi, dan spacing. Adapun property Text Styling sebagai berikut:
+</p>
 
 - **Text-Align**📎
   <p align="justify">  
@@ -434,6 +408,9 @@ jarak antar huruf dan baris. Tujuannya biar teks lo tampil rapi, estetis, dan se
 ---
 
 ### 🖼️ Background Styling
+<p align="justify"> 
+Background styling adalah kumpulan properti CSS yang dipakai untuk mengatur latar belakang elemen. Bisa berupa warna polos, gambar, posisi, ukuran, atau efek overlay. Dengan ini, tampilan web jadi lebih menarik dan sesuai desain. Adapun property Background Styling sebagai berikut:
+</p>
 
 - **Background-Color**📎
   <p align="justify">  
@@ -630,7 +607,7 @@ jarak antar huruf dan baris. Tujuannya biar teks lo tampil rapi, estetis, dan se
      
 ---
 
-### 🎨 Pseudo Class
+### 🔑 Pseudo Class
 
 - **:Link**📎
   <p align="justify">  
