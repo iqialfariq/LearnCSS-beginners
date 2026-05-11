@@ -1,6 +1,7 @@
 # 🧠 Penjelasan CSS
 <p align="justify">
-CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk mengatur tampilan, tata letak, warna, dan font elemen HTML pada situs web. CSS memisahkan konten (HTML) dari visualisasi, membuat website lebih menarik, responsif, dan mudah dikelola. Tanpa CSS, halaman web hanya berupa teks polos berstruktur.
+CSS (Cascading Style Sheets) adalah bahasa stylesheet yang digunakan untuk mengatur tampilan, tata letak, warna, dan font elemen HTML pada situs web. CSS memisahkan konten
+(HTML) dari visualisasi, membuat website lebih menarik, responsif, dan mudah dikelola. Tanpa CSS, halaman web hanya berupa teks polos berstruktur.
 </p>
 
 ---
@@ -85,6 +86,12 @@ selector {
 ---
 
 ### 🔤 Font-Styling
+<p align="justify"> 
+Font styling adalah kumpulan properti CSS yang digunakan untuk mengatur penampilan teks di halaman web — mulai dari jenis huruf, ukuran, ketebalan, gaya miring, hingga
+jarak antar huruf dan baris. Tujuannya biar teks lo tampil rapi, estetis, dan sesuai branding.
+</p>
+
+---
 
 - **Font-Family**📎
   <p align="justify">  
