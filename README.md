@@ -641,7 +641,7 @@ selector {
   untuk menargetkan hyperlink (elemen <a>) yang belum pernah dikunjungi oleh pengguna. Dengan kata lain, ini adalah state default dari sebuah link sebelum diklik.
   </p>
 
-  ```
+  ```css
     a:link {
       color: blue;
       text-decoration: none;
@@ -654,7 +654,7 @@ selector {
   tombol, gambar, atau elemen lain di halaman web. 
   </p>
   
-  ```
+  ```css
     a:hover {
       color: white;
       background-color: salmon;
@@ -668,7 +668,7 @@ selector {
   kata lain, ini adalah state sementara antara hover dan release.
   </p>
   
-  ```
+  ```css
     a:active {
       color: white;
       background-color: salmon;
@@ -682,7 +682,7 @@ selector {
   menyimpannya dalam riwayat.
   </p>
     
-  ```
+  ```css
     a:visited {
       color: red;
     }
@@ -694,7 +694,7 @@ selector {
   dengan :first-child akan berlaku padanya.
   </p>
     
-  ```
+  ```css
     a:first-child {
       color: salmon;
     }
@@ -706,7 +706,7 @@ selector {
   padanya. 
   </p>
     
-  ```
+  ```css
     a:last-child {
       color: salmon;
     }
@@ -718,7 +718,7 @@ selector {
   untuk diberi gaya khusus. untuk urutan ganjil pakai "odd" dan untuk genap pakai "even". 
   </p>
     
-  ```
+  ```css
     a:nth-child {
       color: salmon;
     }
