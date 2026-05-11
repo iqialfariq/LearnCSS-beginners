@@ -158,7 +158,7 @@ jarak antar huruf dan baris. Tujuannya biar teks kamu tampil rapi, dan sesuai br
      
 - **Font-Variant**📎
   <p align="justify">  
-  Untuk mengatur variasi gaya font, terutama dalam hal *small-caps* (huruf kecil ditampilkan sebagai huruf kapital kecil). Dengan ini, teks bisa tampil lebih formal atau
+  Untuk mengatur variasi gaya font, terutama dalam hal small-caps (huruf kecil ditampilkan sebagai huruf kapital kecil). Dengan ini, teks bisa tampil lebih formal atau
   bergaya tipografi khusus tanpa mengubah isi asli teks.
   
   Value font-variant ada 3 yaitu: </p>
