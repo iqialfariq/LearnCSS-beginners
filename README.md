@@ -91,8 +91,6 @@ Font styling adalah kumpulan properti CSS yang digunakan untuk mengatur penampil
 jarak antar huruf dan baris. Tujuannya biar teks lo tampil rapi, estetis, dan sesuai branding.
 </p>
 
----
-
 - **Font-Family**📎
   <p align="justify">  
   Untuk menentukan jenis huruf (font) yang dipakai pada teks dalam elemen HTML. Dengan ini, kamu bisa mengatur tipografi agar sesuai dengan branding, estetika, atau
@@ -106,8 +104,6 @@ jarak antar huruf dan baris. Tujuannya biar teks lo tampil rapi, estetis, dan se
       Teks dengan font Arial
     </p>
   ```
-
----
 
 - **Font-Size**📎
   <p align="justify">  
@@ -155,8 +151,6 @@ jarak antar huruf dan baris. Tujuannya biar teks lo tampil rapi, estetis, dan se
      <p style="font-size: large;">Teks ukuran besar</p>
      ```
 
----
-
 - **Font-Weight**📎
   <p align="justify">  
   Untuk mengatur ketebalan huruf (tebal-tipis) pada teks. Dengan ini, kamu bisa membuat teks tampil normal, lebih tipis, atau lebih tebal sesuai kebutuhan tipografi.  
@@ -190,8 +184,6 @@ jarak antar huruf dan baris. Tujuannya biar teks lo tampil rapi, estetis, dan se
      <p style="font-weight: 700;">Teks tebal</p>
      <p style="font-weight: 900;">Teks super tebal</p>
      ```
-
----
      
 - **Font-Variant**📎
   <p align="justify">  
@@ -214,8 +206,6 @@ jarak antar huruf dan baris. Tujuannya biar teks lo tampil rapi, estetis, dan se
      ```html
      <p style="font-variant: inherit;">Teks mengikuti font-variant dari elemen induk</p>
      ```
-     
----
 
 - **Font-Style**📎
   <p align="justify"> 
@@ -244,8 +234,6 @@ jarak antar huruf dan baris. Tujuannya biar teks lo tampil rapi, estetis, dan se
      <p style="font-style: inherit;">Teks mengikuti font-style dari elemen induk</p>
      ```
 
----
-
 - **Line-Height**📎
   <p align="justify">   
   Untuk mengatur tinggi baris teks dalam sebuah elemen. Dengan kata lain, ia menentukan jarak vertikal antara garis dasar (baseline) teks satu dengan teks berikutnya.  
@@ -271,6 +259,7 @@ jarak antar huruf dan baris. Tujuannya biar teks lo tampil rapi, estetis, dan se
      ```html
      <p style="line-height: 150%;">Teks dengan line-height 150%</p>
      ```
+     
 ---     
 
 ### ✍️ Text Styling
