@@ -235,7 +235,7 @@ jarak antar huruf dan baris. Tujuannya biar teks kamu tampil rapi, dan sesuai br
 
 ### ✍️ Text Styling
 <p align="justify"> 
-Text styling adalah kumpulan properti CSS yang dipakai untuk mengatur penampilan teks di halaman web. Fokusnya bukan ke font ( jenis huruf ), tapi ke efek visual teks seperti dekorasi, transformasi huruf, perataan, indentasi, dan spacing. Adapun property Text Styling sebagai berikut:
+Text styling adalah kumpulan properti CSS yang dipakai untuk mengatur penampilan teks di halaman web. Fokusnya bukan ke font (jenis huruf), tapi ke efek visual teks seperti dekorasi, transformasi huruf, perataan, indentasi, dan spacing. Adapun property Text Styling sebagai berikut:
 </p>
 
 - **Text-Align**📎
@@ -611,7 +611,7 @@ Background styling adalah kumpulan properti CSS yang dipakai untuk mengatur lata
 
 - **:Link**📎
   <p align="justify">  
-  untuk menargetkan hyperlink (elemen <a>) yang belum pernah dikunjungi oleh pengguna. Dengan kata lain, ini adalah state default dari sebuah link sebelum diklik.
+  untuk menargetkan hyperlink yang belum pernah dikunjungi oleh pengguna. Dengan kata lain, ini adalah state default dari sebuah link sebelum diklik.
   </p>
 
   ```css
@@ -651,7 +651,7 @@ Background styling adalah kumpulan properti CSS yang dipakai untuk mengatur lata
 
 - **:visited**📎
   <p align="justify">  
-  untuk menargetkan hyperlink (<a>) yang sudah pernah dikunjungi oleh pengguna. Dengan kata lain, ini adalah state link setelah pengguna mengkliknya dan browser
+  untuk menargetkan hyperlink yang sudah pernah dikunjungi oleh pengguna. Dengan kata lain, ini adalah state link setelah pengguna mengkliknya dan browser
   menyimpannya dalam riwayat.
   </p>
     
