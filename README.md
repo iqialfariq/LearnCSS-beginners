@@ -522,7 +522,7 @@ Background styling adalah kumpulan properti CSS yang dipakai untuk mengatur lata
 
 - **Background-Repeat**📎
   <p align="justify">  
-  Untuk mengatur apakah gambar latar belakang ( background-image ) diulang atau tidak, serta bagaimana pola pengulangannya ditampilkan dalam sebuah elemen.
+  Untuk mengatur apakah gambar latar belakang (background-image) diulang atau tidak, serta bagaimana pola pengulangannya ditampilkan dalam sebuah elemen.
   
   Value background-repeat ada 6 yaitu: </p>  
 
