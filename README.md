@@ -611,7 +611,7 @@ Background styling adalah kumpulan properti CSS yang dipakai untuk mengatur lata
 
 - **:Link**📎
   <p align="justify">  
-  untuk menargetkan hyperlink yang belum pernah dikunjungi oleh pengguna. Dengan kata lain, ini adalah state default dari sebuah link sebelum diklik.
+  Untuk menargetkan hyperlink yang belum pernah dikunjungi oleh pengguna. Dengan kata lain, ini adalah state default dari sebuah link sebelum diklik.
   </p>
 
   ```css
@@ -623,8 +623,8 @@ Background styling adalah kumpulan properti CSS yang dipakai untuk mengatur lata
 
 - **:hover**📎
   <p align="justify">  
-  untuk menargetkan sebuah elemen saat pointer (mouse) diarahkan ke atasnya. Ini adalah salah satu pseudo-class paling populer untuk membuat efek interaktif pada link,
-  tombol, gambar, atau elemen lain di halaman web. 
+  Untuk menargetkan sebuah elemen saat pointer (mouse) diarahkan ke atasnya. Ini adalah salah satu pseudo-class paling populer untuk membuat efek
+  interaktif pada link, tombol, gambar, atau elemen lain di halaman web. 
   </p>
   
   ```css
@@ -637,8 +637,8 @@ Background styling adalah kumpulan properti CSS yang dipakai untuk mengatur lata
   
 - **:active**📎
   <p align="justify">  
-  untuk menargetkan sebuah elemen saat sedang dalam keadaan aktif, yaitu ketika pengguna menekan (klik) elemen dengan mouse atau sentuhan tetapi belum melepaskannya. Dengan
-  kata lain, ini adalah state sementara antara hover dan release.
+  Untuk menargetkan sebuah elemen saat sedang dalam keadaan aktif, yaitu ketika pengguna menekan (klik) elemen dengan mouse atau sentuhan tetapi belum
+  melepaskannya. Dengan kata lain, ini adalah state sementara antara hover dan release.
   </p>
   
   ```css
@@ -651,8 +651,8 @@ Background styling adalah kumpulan properti CSS yang dipakai untuk mengatur lata
 
 - **:visited**📎
   <p align="justify">  
-  untuk menargetkan hyperlink yang sudah pernah dikunjungi oleh pengguna. Dengan kata lain, ini adalah state link setelah pengguna mengkliknya dan browser
-  menyimpannya dalam riwayat.
+  Untuk menargetkan hyperlink yang sudah pernah dikunjungi oleh pengguna. Dengan kata lain, ini adalah state link setelah pengguna mengkliknya dan
+  browser menyimpannya dalam riwayat.
   </p>
     
   ```css
@@ -663,7 +663,7 @@ Background styling adalah kumpulan properti CSS yang dipakai untuk mengatur lata
 
 - **:first-child**📎
   <p align="justify">  
-  untuk menargetkan elemen pertama dalam sebuah parent (induk). Artinya, jika sebuah elemen adalah anak pertama dari parent-nya, maka selector 
+  Untuk menargetkan elemen pertama dalam sebuah parent (induk). Artinya, jika sebuah elemen adalah anak pertama dari parent-nya, maka selector 
   dengan :first-child akan berlaku padanya.
   </p>
     
@@ -675,8 +675,8 @@ Background styling adalah kumpulan properti CSS yang dipakai untuk mengatur lata
 
 - **:last-child**📎
   <p align="justify">  
-  untuk menargetkan elemen terakhir dalam sebuah parent (induk). Jadi, jika sebuah elemen adalah anak terakhir dari parent-nya, selector dengan :last-child akan berlaku
-  padanya. 
+  Untuk menargetkan elemen terakhir dalam sebuah parent (induk). Jadi, jika sebuah elemen adalah anak terakhir dari parent-nya, selector dengan :last
+  child akan berlaku padanya. 
   </p>
     
   ```css
@@ -687,8 +687,8 @@ Background styling adalah kumpulan properti CSS yang dipakai untuk mengatur lata
 
 - **:nth-child**📎
   <p align="justify">  
-  untuk menargetkan elemen anak ke-n dalam sebuah parent, berdasarkan urutan. Dengan ini, kamu bisa memilih elemen tertentu (misalnya anak ke-2, ke-3, atau pola berulang)
-  untuk diberi gaya khusus. untuk urutan ganjil pakai "odd" dan untuk genap pakai "even". 
+  Untuk menargetkan elemen anak ke-n dalam sebuah parent, berdasarkan urutan. Dengan ini, kamu bisa memilih elemen tertentu (misalnya anak ke-2, ke-3,
+  atau pola berulang) untuk diberi gaya khusus. untuk urutan ganjil pakai "odd" dan untuk genap pakai "even". 
   </p>
     
   ```css
